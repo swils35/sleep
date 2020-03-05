@@ -28,6 +28,7 @@ I've created a subjective scoring system of each night's sleep. The *quality sco
 5 = I've got energy to spare
 
 **Excel Spreadsheet** 
+
 I have created an excel spreadsheet(to be uploaded to Phase 3 branch) to record my data. The excel spreadsheet currently includes 4 tabs:
  1. data - This is the main data records. 
  2. quality_score_guide - The guide with the same listing as the above subjective scoring.
