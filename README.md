@@ -23,9 +23,9 @@ I've created a subjective scoring system of each night's sleep. The *quality sco
  0. Give me coffee or face my wrath - lethargic, unable to concentrate
  1. Very low energy, difficult to concentrate
  2. A bit lethargic
- 3. = I could go for a nap - overall, I feel fully functional but could do with a 15 minute power nap
- 4. = I feel fairly well rested
- 5. = I've got energy to spare
+ 3. I could go for a nap - overall, I feel fully functional but could do with a 15 minute power nap
+ 4. I feel fairly well rested
+ 5. I've got energy to spare
 
 **Excel Spreadsheet** 
 
